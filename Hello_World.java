@@ -4,6 +4,12 @@ public class Hello_World {
         System.out.println("Hello Rakhat");
         System.out.println("Hello Amina");
         System.out.println("Hello Eric");
+        
+        
+        String a = "Amina";
+        for(int i=0; a.length()-1;i++){
+        System.out.println(i);
+        }
 
         String e = "erid";
 

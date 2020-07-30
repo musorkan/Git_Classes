@@ -5,5 +5,7 @@ public class Hello_World {
         System.out.println("Hello Amina");
         System.out.println("Hello Eric");
 
+        String e = "erid";
+
     }
 }

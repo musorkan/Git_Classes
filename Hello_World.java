@@ -6,6 +6,7 @@ public class Hello_World {
         System.out.println("Hello Eric");
 
         System.out.println("Hello honey how are you");
+        System.out.println("Amina jakshy kyz");
         
         
         String ar = "Amina";

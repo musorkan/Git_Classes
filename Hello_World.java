@@ -4,11 +4,14 @@ public class Hello_World {
         System.out.println("Hello Rakhat");
         System.out.println("Hello Amina");
         System.out.println("Hello Eric");
+
+        System.out.println("Hello honey how are you");
         
         
-        String a = "Amina";
-        for(int i=0; a.length()-1>=i;i++){
-        System.out.println(i);
+        String ar = "Amina";
+        for(int i=0; ar.length()-1>=i;i++){
+        System.out.print(ar.charAt(i)+"  ");
+
         }
 
         String e = "erid";

@@ -1,9 +1,0 @@
-Class{
-public static void main(String[] args){
-
-System.out.println("Hi Rakhat");
-  
-  // edited in github
-
-}
-}
